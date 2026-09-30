@@ -1,16 +1,59 @@
-## Hi there 👋
+Hi, I'm Mohammad Awais 👋
 
-<!--
-**Mohammad-Awais456/Mohammad-Awais456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohammad Awais, a Full-Stack Web Developer and the creator of Awais Coder.
 
-Here are some ideas to get you started:
+I specialize in building modern, responsive, and scalable web & mobile applications using:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React.js 
+React Native & Expo
+Next.js
+TypeScript
+JavaScript
+Node.js
+Express.js
+MongoDB
+REST APIs
+Redux
+Tailwind CSS
+
+I primarily work on frontend development with React, Next.js, TypeScript, UI development, performance, and responsive web applications, while also building full-stack applications with Node.js, Express, and MongoDB.
+
+🚀 About Me
+👨‍💻 Web Developer: Mohammad Awais
+🌐 Professional Brand: Awais Coder
+📍 Based in Lahore, Pakistan
+💻 Focus: React, Next.js, TypeScript & Node.js
+🌎 Open to remote web development opportunities
+📂 Portfolio: https://awaiscoder.com
+📄 Resume: https://awaiscoder.com/fs-cv.pdf
+🔗 GitHub: Mohammad-Awais456
+🛠️ Technologies
+
+Frontend: React.js, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Sass, Bootstrap
+
+Backend: Node.js, Express.js, REST APIs
+
+Database: MongoDB
+
+Other: Git, GitHub, Jest, SSR, SEO, WordPress, WooCommerce
+
+📌 Featured Projects
+VeraMatch AI
+
+A Next.js-based AI resume matching application that analyzes resumes against job descriptions and provides match scores, skills analysis, salary information, and interview questions.
+
+NexaCart
+
+A full-stack e-commerce application built with React/Next.js, Node.js, and MongoDB.
+
+Movies Galaxy
+
+A React Native movie application using the TMDB API.
+
+🌐 Find Me Online
+
+Portfolio: https://awaiscoder.com
+
+GitHub: https://github.com/Mohammad-Awais456
+
+Mohammad Awais | Awais Coder | Web Developer
