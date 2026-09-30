@@ -18,16 +18,27 @@ Tailwind CSS
 
 I primarily work on frontend development with React, Next.js, TypeScript, UI development, performance, and responsive web applications, while also building full-stack applications with Node.js, Express, and MongoDB.
 
+
 🚀 About Me
+
 👨‍💻 Web Developer: Mohammad Awais
+
 🌐 Professional Brand: Awais Coder
+
 📍 Based in Lahore, Pakistan
+
 💻 Focus: React, Next.js, TypeScript & Node.js
+
 🌎 Open to remote web development opportunities
+
 📂 Portfolio: https://awaiscoder.com
+
 📄 Resume: https://awaiscoder.com/fs-cv.pdf
+
 🔗 GitHub: Mohammad-Awais456
+
 🛠️ Technologies
+
 
 Frontend: React.js, Next.js, TypeScript, JavaScript, Redux, Tailwind CSS, Sass, Bootstrap
 
